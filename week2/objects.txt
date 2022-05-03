@@ -1,0 +1,4 @@
+(311,195) RECTANGLE red (30,40)
+(218,379) RECTANGLE green (300,4)
+(308,323) CIRCLE blue 35
+(285,220) PICTURE minion.png
